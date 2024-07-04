@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.md linguist-language=cpp
+*.txt linguist-language=cpp
+*.xml linguist-language=cpp
