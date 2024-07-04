@@ -1,0 +1,2 @@
+livox_repub
+-DCATKIN_DEVEL_PREFIX=/home/skzn_2023/livox_repub/devel -DCMAKE_INSTALL_PREFIX=/home/skzn_2023/livox_repub/install -G Unix Makefiles
